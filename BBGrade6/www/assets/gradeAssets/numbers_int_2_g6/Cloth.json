@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 17 instance 10000",
+	"frame": {"x":0,"y":0,"w":93,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":91},
+	"sourceSize": {"w":93,"h":91}
+}
+,{
+	"filename": "Symbol 17 instance 10001",
+	"frame": {"x":93,"y":0,"w":93,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":91},
+	"sourceSize": {"w":93,"h":91}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "Cloth.png",
+	"format": "RGBA8888",
+	"size": {"w":194,"h":94},
+	"scale": "1"
+}
+}

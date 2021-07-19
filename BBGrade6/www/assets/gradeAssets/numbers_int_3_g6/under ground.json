@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 53 instance 10000",
+	"frame": {"x":0,"y":0,"w":725,"h":275},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":725,"h":275},
+	"sourceSize": {"w":725,"h":275}
+}
+,{
+	"filename": "Symbol 53 instance 10001",
+	"frame": {"x":725,"y":0,"w":725,"h":275},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":725,"h":275},
+	"sourceSize": {"w":725,"h":275}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "Question 1.png",
+	"format": "RGBA8888",
+	"size": {"w":1451,"h":275},
+	"scale": "1"
+}
+}

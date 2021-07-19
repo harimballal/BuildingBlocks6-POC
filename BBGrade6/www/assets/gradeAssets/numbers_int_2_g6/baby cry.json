@@ -1,0 +1,99 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 7 copy instance 10000",
+	"frame": {"x":0,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10001",
+	"frame": {"x":165,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10002",
+	"frame": {"x":330,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10003",
+	"frame": {"x":495,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10004",
+	"frame": {"x":660,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10005",
+	"frame": {"x":825,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10006",
+	"frame": {"x":990,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10007",
+	"frame": {"x":1155,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10008",
+	"frame": {"x":1320,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10009",
+	"frame": {"x":1485,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}
+,{
+	"filename": "Symbol 7 copy instance 10010",
+	"frame": {"x":1650,"y":0,"w":165,"h":193},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":193},
+	"sourceSize": {"w":165,"h":193}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "baby cry.png",
+	"format": "RGBA8888",
+	"size": {"w":1843,"h":197},
+	"scale": "1"
+}
+}

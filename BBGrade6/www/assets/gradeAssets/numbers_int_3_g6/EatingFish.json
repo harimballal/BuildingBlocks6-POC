@@ -1,0 +1,83 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 copy 3 instance 10000",
+	"frame": {"x":0,"y":0,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35}
+}
+,{
+	"filename": "Symbol 1 copy 3 instance 10001",
+	"frame": {"x":40,"y":0,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35}
+}
+,{
+	"filename": "Symbol 1 copy 3 instance 10002",
+	"frame": {"x":80,"y":0,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35}
+}
+,{
+	"filename": "Symbol 1 copy 3 instance 10003",
+	"frame": {"x":120,"y":0,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35}
+}
+,{
+	"filename": "Symbol 1 copy 3 instance 10004",
+	"frame": {"x":160,"y":0,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35}
+}
+,{
+	"filename": "Symbol 1 copy 3 instance 10005",
+	"frame": {"x":200,"y":0,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35}
+}
+,{
+	"filename": "Symbol 1 copy 3 instance 10006",
+	"frame": {"x":240,"y":0,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35}
+}
+,{
+	"filename": "Symbol 1 copy 3 instance 10007",
+	"frame": {"x":280,"y":0,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35}
+}
+,{
+	"filename": "Symbol 1 copy 3 instance 10008",
+	"frame": {"x":320,"y":0,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.0.1.19255",
+	"image": "Kingfisher Eating Fish.png",
+	"format": "RGBA8888",
+	"size": {"w":366,"h":35},
+	"scale": "1"
+}
+}
